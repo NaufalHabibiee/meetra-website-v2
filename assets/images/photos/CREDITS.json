@@ -1,0 +1,164 @@
+{
+ "why-team": {
+  "query": "team meeting office laptop discussion",
+  "source": "https://pixabay.com/photos/business-meeting-office-teamwork-10234773/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "why-engineer": {
+  "query": "software developer laptop code",
+  "source": "https://pixabay.com/photos/computer-laptop-tech-blue-computer-4795762/",
+  "author": "yeiferr",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "why-datacenter": {
+  "query": "network engineer server rack",
+  "source": "https://pixabay.com/photos/engineer-engineering-broadcast-4922449/",
+  "author": "This_is_Engineering",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "why-industrial": {
+  "query": "engineer factory tablet",
+  "source": "https://pixabay.com/photos/man-architect-engineer-people-9694120/",
+  "author": "Sergey2025",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "unit-ai-intelligence": {
+  "query": "artificial intelligence brain circuit",
+  "source": "https://pixabay.com/photos/cyber-brain-computer-brain-7633488/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "unit-cybersecurity-infrastructure": {
+  "query": "cyber security padlock globe",
+  "source": "https://pixabay.com/photos/security-computer-science-web-computer-3742114/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "unit-enterprise-solutions": {
+  "query": "business people laptop office",
+  "source": "https://pixabay.com/photos/office-collaboration-meeting-10494915/",
+  "author": "erwinbosman",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "unit-managed-technology-services": {
+  "query": "call center headset support",
+  "source": "https://pixabay.com/photos/call-center-headset-smile-10378566/",
+  "author": "geralt",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "unit-digital-engineering": {
+  "query": "industrial robot factory automation",
+  "source": "https://pixabay.com/photos/robot-arm-technology-robot-arm-2791671/",
+  "author": "jarmoluk",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-banking-financial-services": {
+  "query": "financial district skyscrapers glass",
+  "source": "https://pixabay.com/photos/skyscraper-modern-architecture-10482055/",
+  "author": "jsachs99",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-logistics-transportation": {
+  "query": "logistics warehouse forklift",
+  "source": "https://pixabay.com/photos/high-level-rack-warehouse-range-408222/",
+  "author": "delphinmedia",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-manufacturing-industrial": {
+  "query": "factory production line",
+  "source": "https://pixabay.com/photos/worker-woman-mask-face-mask-6322085/",
+  "author": "Quanlecntt2004",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-education-university": {
+  "query": "university students campus",
+  "source": "https://pixabay.com/photos/people-students-university-campus-6027028/",
+  "author": "naassomz1",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-retail-ecommerce": {
+  "query": "retail store shopping",
+  "source": "https://pixabay.com/photos/apparel-boutique-bags-shoes-shop-1850804/",
+  "author": "Pexels",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-government-public-sector": {
+  "query": "public service office counter",
+  "source": "https://pixabay.com/photos/russia-post-office-switch-mailbox-1645251/",
+  "author": "Peggy_Marco",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-healthcare-hospital": {
+  "query": "doctor tablet hospital",
+  "source": "https://pixabay.com/photos/doctor-tablet-stethoscope-hospital-10494916/",
+  "author": "erwinbosman",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-energy-mining": {
+  "query": "solar power plant",
+  "source": "https://pixabay.com/photos/solar-farm-solar-photovoltaic-4683339/",
+  "author": "LionMountain",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-property-construction": {
+  "query": "construction site crane",
+  "source": "https://pixabay.com/photos/cranes-construction-load-crane-3703469/",
+  "author": "analogicus",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "ind-hospitality-fnb": {
+  "query": "hotel lobby restaurant",
+  "source": "https://pixabay.com/photos/luxury-hotel-vacation-piano-bar-3715115/",
+  "author": "Michelle-Maria",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "about-office": {
+  "query": "office team collaboration",
+  "source": "https://pixabay.com/photos/job-office-team-business-internet-5382501/",
+  "author": "RonaldCandonga",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "hero-skyline": {
+  "query": "jakarta skyline",
+  "source": "https://pixabay.com/photos/skyscraper-city-architecture-office-3128906/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "leader-1": {
+  "query": "asian businessman portrait suit",
+  "source": "https://pixabay.com/photos/man-business-office-work-portrait-8831979/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "leader-2": {
+  "query": "asian businesswoman portrait office",
+  "source": "https://pixabay.com/photos/business-woman-beauty-portrait-2123230/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "leader-3": {
+  "query": "asian businessman portrait suit",
+  "source": "https://pixabay.com/photos/man-business-office-work-portrait-8831983/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "leader-4": {
+  "query": "asian businesswoman portrait office",
+  "source": "https://pixabay.com/photos/ai-generated-woman-business-woman-8478468/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "leader-5": {
+  "query": "asian businessman portrait suit",
+  "source": "https://pixabay.com/photos/portrait-man-social-company-4568762/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ },
+ "leader-6": {
+  "query": "asian businesswoman portrait office",
+  "source": "https://pixabay.com/photos/woman-black-businesswoman-young-868522/",
+  "author": "(see source page)",
+  "license": "Pixabay Content License (free for commercial use)"
+ }
+}
